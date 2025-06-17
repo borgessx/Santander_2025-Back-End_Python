@@ -65,6 +65,5 @@ def calcular_desconto(preco, porcentagem):
 
 valor_final = calcular_desconto(100, 20)
 print(f"O valor com desconto é: R${valor_final}")
-
 #🧠 Aqui a função calcula o desconto e retorna o valor final com desconto. Sem return, a gente não conseguiria usar esse resultado depois.
 
